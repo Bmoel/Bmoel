@@ -1,4 +1,4 @@
 - Hi! My name is Ben Moeller  
-- I am currently a sophmore at the University of Kansas
+- I am currently a sophomore at the University of Kansas
 - Major: Computer Science  
 - You can reach me at: benlynnmoeller@gmail.com  
