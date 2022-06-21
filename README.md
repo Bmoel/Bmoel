@@ -1,4 +1,4 @@
 - Hi! My name is Ben Moeller  
-- I am currently a junior at the University of Kansas
+- I am currently a senior at the University of Kansas
 - Major: Computer Science  
 - You can reach me at: benlynnmoeller@gmail.com  
