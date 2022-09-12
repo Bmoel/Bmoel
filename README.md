@@ -2,4 +2,4 @@
 - I am currently a senior at the University of Kansas
 - Major: Computer Science  
 - You can reach me at: benlynnmoeller@gmail.com  
-- Projects I am proud of are listed below in the pinned section:
+- **Projects I am proud of are listed below in the pinned section:**
