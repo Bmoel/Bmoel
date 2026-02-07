@@ -2,6 +2,7 @@
 - Graduated from the University of Kansas in May 2023
 - Major: Computer Science  
 - Some projects I am proud of are listed below in the pinned section:
+  * **media-club** is a full stack web app build with React and Rust. Built to show off anime a group of friends and I have watched together.
   * **2DPlatformProject448** is a platforming game we made as a group project in Unity and C# for my Software Engineering class
   * **465-Research-Papers** includes 2 research papers I wrote for a Cybersecurity class that analyzed tools used in the field
   * **ani-list** is a command line tool I made to help myself learn Rust
